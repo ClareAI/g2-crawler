@@ -1,0 +1,26 @@
+[
+  {
+    "review_id": "example-review-001",
+    "author": "Jane D.",
+    "job_title": "Product Manager",
+    "company_size": "Mid-Market (51-1000 emp.)",
+    "date": "2025-06-15",
+    "rating": 5.0,
+    "title": "Great tool for team collaboration",
+    "likes": "The interface is intuitive and the onboarding was smooth. Our team was up and running within a day.",
+    "dislikes": "Wish there were more customization options for dashboards.",
+    "problems_solving": "We needed a centralized platform for customer communication. This tool replaced three separate apps we were using before."
+  },
+  {
+    "review_id": "example-review-002",
+    "author": "John S.",
+    "job_title": "Customer Support Lead",
+    "company_size": "Small-Business (50 or fewer emp.)",
+    "date": "2025-05-20",
+    "rating": 4.0,
+    "title": "Solid platform with room for improvement",
+    "likes": "Automation features save us hours every week. The broadcast messaging capability is very effective.",
+    "dislikes": "The analytics could be more detailed. Sometimes the web app loads slowly.",
+    "problems_solving": "Managing high volumes of customer conversations across a small team. The automation handles routine queries so agents can focus on complex issues."
+  }
+]

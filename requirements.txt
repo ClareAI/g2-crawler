@@ -1,0 +1,2 @@
+scrapling>=0.2
+websockets>=12.0

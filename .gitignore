@@ -1,0 +1,7 @@
+# Generated files
+*_reviews.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
